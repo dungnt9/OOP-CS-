@@ -1,0 +1,14 @@
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\bin\Debug\net7.0\NguyenTienDung_BTT5.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\bin\Debug\net7.0\NguyenTienDung_BTT5.deps.json
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\bin\Debug\net7.0\NguyenTienDung_BTT5.runtimeconfig.json
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\bin\Debug\net7.0\NguyenTienDung_BTT5.dll
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\bin\Debug\net7.0\NguyenTienDung_BTT5.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\NguyenTienDung_BTT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\NguyenTienDung_BTT5.AssemblyInfoInputs.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\NguyenTienDung_BTT5.AssemblyInfo.cs
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\NguyenTienDung_BTT5.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\NguyenTienDung_BTT5.dll
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\refint\NguyenTienDung_BTT5.dll
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\NguyenTienDung_BTT5.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\NguyenTienDung_BTT5.genruntimeconfig.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT5\NguyenTienDung_BTT5\obj\Debug\net7.0\ref\NguyenTienDung_BTT5.dll

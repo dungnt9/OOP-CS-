@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NguyenTienDung_BTT5/1.0.0": {
+        "runtime": {
+          "NguyenTienDung_BTT5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenTienDung_BTT5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
