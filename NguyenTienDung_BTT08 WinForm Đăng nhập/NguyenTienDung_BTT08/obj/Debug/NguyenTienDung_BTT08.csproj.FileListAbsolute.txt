@@ -1,0 +1,11 @@
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\bin\Debug\NguyenTienDung_BTT08.exe.config
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\bin\Debug\NguyenTienDung_BTT08.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\bin\Debug\NguyenTienDung_BTT08.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\obj\Debug\NguyenTienDung_BTT08.csproj.AssemblyReference.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\obj\Debug\NguyenTienDung_BTT08.Properties.Resources.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\obj\Debug\NguyenTienDung_BTT08.csproj.GenerateResource.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\obj\Debug\NguyenTienDung_BTT08.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\obj\Debug\NguyenTienDung_BTT08.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\obj\Debug\NguyenTienDung_BTT08.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\obj\Debug\NguyenTienDung_BTT08.frmDangNhap.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT08\NguyenTienDung_BTT08\obj\Debug\NguyenTienDung_BTT08.MainForm.resources
