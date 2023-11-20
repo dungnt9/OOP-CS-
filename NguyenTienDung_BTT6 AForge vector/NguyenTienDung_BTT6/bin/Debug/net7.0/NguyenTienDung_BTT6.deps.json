@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NguyenTienDung_BTT6/1.0.0": {
+        "dependencies": {
+          "AForge.Math": "2.2.5.0"
+        },
+        "runtime": {
+          "NguyenTienDung_BTT6.dll": {}
+        }
+      },
+      "AForge.Math/2.2.5.0": {
+        "runtime": {
+          "AForge.Math.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "AForge/2.2.5.0": {
+        "runtime": {
+          "AForge.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenTienDung_BTT6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Math/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
