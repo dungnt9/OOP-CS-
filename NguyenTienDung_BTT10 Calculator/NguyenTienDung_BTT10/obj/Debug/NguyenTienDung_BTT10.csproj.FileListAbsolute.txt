@@ -1,0 +1,10 @@
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\bin\Debug\NguyenTienDung_BTT10.exe.config
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\bin\Debug\NguyenTienDung_BTT10.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\bin\Debug\NguyenTienDung_BTT10.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\obj\Debug\NguyenTienDung_BTT10.csproj.AssemblyReference.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\obj\Debug\NguyenTienDung_BTT10.Properties.Resources.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\obj\Debug\NguyenTienDung_BTT10.csproj.GenerateResource.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\obj\Debug\NguyenTienDung_BTT10.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\obj\Debug\NguyenTienDung_BTT10.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\obj\Debug\NguyenTienDung_BTT10.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT10\NguyenTienDung_BTT10\obj\Debug\NguyenTienDung_BTT10.frmCal.resources
