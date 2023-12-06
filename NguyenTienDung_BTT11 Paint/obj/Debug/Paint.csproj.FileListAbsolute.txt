@@ -1,0 +1,98 @@
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\Paint.exe
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\Paint.pdb
+C:\Documents and Settings\Genius\桌面\Paint\Paint\bin\Debug\Paint.exe
+C:\Documents and Settings\Genius\桌面\Paint\Paint\bin\Debug\Paint.pdb
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\MSPaint.Canvas.resources
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\MSPaint.Colors.resources
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\MSPaint.SaveDialog.resources
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\MSPaint.PaintForm.resources
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\MSPaint.Properties.Resources.resources
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\MSPaint.ToolPanel.resources
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\MSPaint.Canvas.resources
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\MSPaint.Colors.resources
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\MSPaint.SaveDialog.resources
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\MSPaint.PaintForm.resources
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\MSPaint.Properties.Resources.resources
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\MSPaint.ToolPanel.resources
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\twins\Documents\Visual Studio 2008\Projects\Paint\Paint\obj\Debug\MSPaint.Property.resources
+C:\Documents and Settings\Genius\桌面\Paint\Paint\obj\Debug\MSPaint.Property.resources
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\Paint.exe
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\Paint.pdb
+C:\Documents and Settings\Admin\Desktop\Paint\bin\Debug\Paint.exe
+C:\Documents and Settings\Admin\Desktop\Paint\bin\Debug\Paint.pdb
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\MSPaint.Canvas.resources
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\MSPaint.Colors.resources
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\MSPaint.Property.resources
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\MSPaint.SaveDialog.resources
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\MSPaint.PaintForm.resources
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\MSPaint.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\MSPaint.ToolPanel.resources
+C:\Documents and Settings\Admin\Desktop\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\buikhanhthu\Desktop\Paint\obj\Debug\Paint.exe
+C:\Users\buikhanhthu\Desktop\Paint\obj\Debug\Paint.pdb
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\bin\Debug\Paint.exe
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\bin\Debug\Paint.pdb
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\MSPaint.Canvas.resources
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\MSPaint.Colors.resources
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\MSPaint.Property.resources
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\MSPaint.SaveDialog.resources
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\MSPaint.PaintForm.resources
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\MSPaint.Properties.Resources.resources
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\MSPaint.ToolPanel.resources
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\Paint.exe
+G:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K63_KSTN\1_Tailieuhangtuan\TL_Tuan07\Paint4\Paint\obj\Debug\Paint.pdb
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\bin\Debug\Paint.exe
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\bin\Debug\Paint.pdb
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\MSPaint.Canvas.resources
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\MSPaint.Colors.resources
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\MSPaint.Property.resources
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\MSPaint.SaveDialog.resources
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\MSPaint.PaintForm.resources
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\MSPaint.Properties.Resources.resources
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\MSPaint.ToolPanel.resources
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\Paint.exe
+D:\OneDrive - Hanoi University of Science and Technology\3_Giảng dạy\2_Lập trình hướng đối tượng\0_LTHDT_K65_KSTN\OOP Samples\Paint\obj\Debug\Paint.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\bin\Debug\Paint.exe.config
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\bin\Debug\Paint.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\bin\Debug\Paint.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\MSPaint.Canvas.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\MSPaint.Colors.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\MSPaint.Property.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\MSPaint.SaveDialog.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\MSPaint.Properties.Resources.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\MSPaint.ToolPanel.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\Paint.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\Paint.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTTT11\obj\Debug\MSPaint.PaintForm.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\bin\Debug\Paint.exe.config
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\bin\Debug\Paint.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\bin\Debug\Paint.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\MSPaint.Canvas.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\MSPaint.Colors.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\MSPaint.Property.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\MSPaint.SaveDialog.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\MSPaint.PaintForm.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\MSPaint.Properties.Resources.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\MSPaint.ToolPanel.resources
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\Paint.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT11\obj\Debug\Paint.pdb

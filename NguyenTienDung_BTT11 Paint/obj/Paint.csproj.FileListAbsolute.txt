@@ -1,0 +1,13 @@
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\Paint.exe
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\Paint.pdb
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\bin\Debug\Paint.exe
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\bin\Debug\Paint.pdb
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\MSPaint.Canvas.resources
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\MSPaint.Colors.resources
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\MSPaint.Property.resources
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\MSPaint.SaveDialog.resources
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\MSPaint.PaintForm.resources
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\MSPaint.Properties.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\MSPaint.ToolPanel.resources
+C:\Documents and Settings\Admin\My Documents\Downloads\Compressed\Project CSDL\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache

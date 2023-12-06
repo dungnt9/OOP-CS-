@@ -1,0 +1,75 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:SaveFileDialog.cs" caret="1574" fromTop="14" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:ToolPanel.Designer.cs" caret="19131" fromTop="0" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:PaintForm.Designer.cs" caret="2224" fromTop="52" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:ToolPanel.cs" caret="1872" fromTop="48" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:Accessory.cs" caret="10596" fromTop="180" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:Canvas.cs" caret="9969" fromTop="18" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:Colors.cs" caret="0" fromTop="0" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="54784" fromTop="10" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:PaintForm.cs" caret="472" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="69735" fromTop="19" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="88434" fromTop="7" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="91574" fromTop="1" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="77558" fromTop="13" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="77558" fromTop="13" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="78508" fromTop="20" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="76945" fromTop="11" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="77859" fromTop="19" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="91355" fromTop="7" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="71725" fromTop="15" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="71725" fromTop="2" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="71725" fromTop="18" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="71725" fromTop="9" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="71725" fromTop="0" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="1626" fromTop="14" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="2749" fromTop="15" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="5727" fromTop="22" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="5727" fromTop="20" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="3906" fromTop="16" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="2577" fromTop="2" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="3906" fromTop="5" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="5727" fromTop="0" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="701" fromTop="2" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="31490" fromTop="20" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="30873" fromTop="1" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="2306" fromTop="6" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="30873" fromTop="15" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:DrawShape.cs" caret="31490" fromTop="18" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:Accessory.cs" caret="11532" fromTop="8" />
+      <File id="28CB0F05-ED8B-4969-89D6-1E806DE5476A/f:Accessory.cs" caret="10596" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ToolPanel`0" priority="1" />
+      <Item value="Layout" priority="0" />
+      <Item value="new" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MSPaint.ToolPanel">
+      <Item value="psform" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
