@@ -1,0 +1,14 @@
+C:\Users\Dung\source\repos\NguyenTienDung_BTT12\NguyenTienDung_BTT12\bin\Debug\NguyenTienDung_BTT12.exe.config
+C:\Users\Dung\source\repos\NguyenTienDung_BTT12\NguyenTienDung_BTT12\bin\Debug\NguyenTienDung_BTT12.exe
+C:\Users\Dung\source\repos\NguyenTienDung_BTT12\NguyenTienDung_BTT12\bin\Debug\NguyenTienDung_BTT12.pdb
+C:\Users\Dung\source\repos\NguyenTienDung_BTT12\NguyenTienDung_BTT12\obj\Debug\NguyenTienDung_BTT12.csproj.AssemblyReference.cache
+C:\Users\Dung\source\repos\NguyenTienDung_BTT12\NguyenTienDung_BTT12\obj\Debug\NguyenTienDung_BTT12.csproj.CoreCompileInputs.cache
+C:\Users\Dung\source\repos\NguyenTienDung_BTT12\NguyenTienDung_BTT12\obj\Debug\NguyenTienDung_BTT12.exe
+C:\Users\Dung\source\repos\NguyenTienDung_BTT12\NguyenTienDung_BTT12\obj\Debug\NguyenTienDung_BTT12.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT12\NguyenTienDung_BTT12\bin\Debug\NguyenTienDung_BTT12.exe.config
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT12\NguyenTienDung_BTT12\bin\Debug\NguyenTienDung_BTT12.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT12\NguyenTienDung_BTT12\bin\Debug\NguyenTienDung_BTT12.pdb
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT12\NguyenTienDung_BTT12\obj\Debug\NguyenTienDung_BTT12.csproj.AssemblyReference.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT12\NguyenTienDung_BTT12\obj\Debug\NguyenTienDung_BTT12.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT12\NguyenTienDung_BTT12\obj\Debug\NguyenTienDung_BTT12.exe
+C:\Users\Dung\Documents\Source Code\NguyenTienDung_BTT12\NguyenTienDung_BTT12\obj\Debug\NguyenTienDung_BTT12.pdb
